@@ -21,3 +21,7 @@ https://thingspeak.com/channels/338402
 https://thingspeak.com/channels/338402
 
 
+##### To Do
+1. Handle Temp and Humidity nan values.
+2. Sleep and Wakeup mode of SDS011 sensor to capture the readings.
+3. Connect to the mobile app.
