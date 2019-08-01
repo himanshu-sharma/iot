@@ -18,7 +18,9 @@
 https://thingspeak.com/channels/338402
 
 #### Download Data in JSON, XML & CSV
-https://thingspeak.com/channels/338402
+1. JSON: https://thingspeak.com/channels/338402/feed.json
+2. XML: https://thingspeak.com/channels/338402/feed.xml
+3. CSV: https://thingspeak.com/channels/338402/feed.csv
 
 
 ##### To Do
