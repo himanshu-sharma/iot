@@ -1,2 +1,23 @@
 # IoT
-Code to play with the open source boards e.g. Arduino, ESP8266, NodeMCU, WeMos, Raspberry pi etc.
+
+## Air Quality Sensor: Measure Dust (PM2.5 & 10) Levels With Temperature and Humidity
+#### SDS011 Dust Sensor - WeMos OLED Connections
+#####
+1. TXD    --------> D5
+2. RXD    --------> D6
+3. GND    --------> GND
+4. 5V     --------> 5V
+
+#### DHT11 Temperature Sensor - WeMos OLED Connections
+#####
+1. VCC --------> 3.3v or 5v
+2. Data --------> D4
+3. GND --------> GND
+
+#### Thingspeak: Real Time Sensor Data Reporting and Analysis
+https://thingspeak.com/channels/338402
+
+#### Download Data in JSON, XML & CSV
+https://thingspeak.com/channels/338402
+
+
